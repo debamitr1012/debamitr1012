@@ -5,7 +5,7 @@
 More about me:
 
 - 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning ML, DL & NN.
-- 👯 I’m looking to collaborate on ML Projects.
+- 🌱 I’m currently learning ML & DL.
+- 👯 I’m looking to collaborate on ML & DL Projects.
 - 💬 Ask me about Computer, Sports, etc.
 - 😄 Pronouns: He/Him
