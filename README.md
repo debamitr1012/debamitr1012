@@ -30,3 +30,11 @@ More about me:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="HTML" width="40px"/>
 </p>
+
+<h3 align="left">My GitHub statistics :</h3>
+<p align="left">
+![Debayudh's github stats](https://github-readme-stats.vercel.app/api?username=debamitr1012&count_private=true&show_icons=True&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&hide=MATLAB&exclude_repo=dotfiles)
+</p>
+  
+  
