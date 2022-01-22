@@ -22,7 +22,7 @@ More about me:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyternotebook/jupyternotebook-original.svg" alt="HTML" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="HTML" width="40px"/>
