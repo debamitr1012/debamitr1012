@@ -36,7 +36,7 @@ More about me:
 
 ![Debayudh's github stats](https://github-readme-stats.vercel.app/api?username=debamitr1012&count_private=true&show_icons=True&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&hide=MATLAB&exclude_repo=dotfiles)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&exclude_repo=dotfiles)
 </p>
   
   
