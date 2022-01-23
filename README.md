@@ -7,6 +7,7 @@ More about me:
 - 🔭 I’m currently working on ML & DL Projects
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on ML & DL Projects
+- 📫 Reach me **debayudh.mitra@yahoo.in**
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Computer, Sports, etc
 - 😄 Pronouns: He/Him
