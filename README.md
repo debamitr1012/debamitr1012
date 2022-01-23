@@ -34,7 +34,7 @@ More about me:
 <h3 align="left">My GitHub Statistics :</h3>
 <p align="left">
 
-![Debayudh's github stats](https://github-readme-stats.vercel.app/api?username=debamitr1012&count_private=true&show_icons=True&theme=gotham)
+![Debayudh's github stats](https://github-readme-stats.vercel.app/api?username=debamitr1012&count_private=true&show_icons=True)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&exclude_repo=dotfiles)
 </p>
