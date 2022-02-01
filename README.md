@@ -1,8 +1,8 @@
-### Hi there, I'm Debayudh 👋
+# Hi there, I'm Debayudh 👋
 
 ### I'm a student pursuing B.Tech in Computer Science And Engineering.
 
-More about me:
+## More about me:
 
 - 🔭 I’m currently working on ML & DL Projects
 - 🌱 I’m currently learning everything
