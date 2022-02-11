@@ -40,11 +40,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&exclude_repo=dotfiles)
 </p>
 
-### Views
+<h3 align="left">Views:</h3>
 <a href="https://github.com/debamitr1012/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=debamitr1012">
 </a>
 
+<h3 align="left">Activity Graph:</h3>
 <a href="https://github.com/debamitr1012/github-readme-activity-graph"><img alt="Debayudh Mitra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=debamitr1012&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
