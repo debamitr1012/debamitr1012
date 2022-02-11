@@ -39,5 +39,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&exclude_repo=dotfiles)
 </p>
+
+<a href="https://github.com/debamitr1012/github-readme-activity-graph"><img alt="Debayudh Mitra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=debamitr1012&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
   
   
