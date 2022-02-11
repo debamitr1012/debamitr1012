@@ -41,11 +41,11 @@
 </p>
 
 ### Views
-![Visitor Count](https://profile-counter.glitch.me/{debamitr1012}/count.svg)
+<a href="https://github.com/debamitr1012/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=debamitr1012">
+</a>
 
 <a href="https://github.com/debamitr1012/github-readme-activity-graph"><img alt="Debayudh Mitra's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=debamitr1012&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
- <a href="https://github.com/debamitr1012/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=debamitr1012">
-</a>
+
   
