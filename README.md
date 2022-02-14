@@ -1,4 +1,4 @@
-# Hi there, I'm Debayudh 👋
+<h1 align="center">Hi there,<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Debayudh</h1>
 
 ### I'm a student pursuing B.Tech in Computer Science And Engineering.
 
