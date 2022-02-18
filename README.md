@@ -40,6 +40,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&exclude_repo=dotfiles)
 </p>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=debamitr1012&theme=light)
+
 <h3 align="left">Views:</h3>
 <a href="https://github.com/debamitr1012/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=debamitr1012">
