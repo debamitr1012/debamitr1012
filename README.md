@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything
 - 👯 I’m looking forward to collaborate on ML & DL Projects
 - 📫 Reach me **debayudh.mitra@yahoo.in**
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Computer, Sports, etc
 - 😄 Pronouns: He/Him
 
