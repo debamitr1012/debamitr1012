@@ -53,3 +53,5 @@
 <p align="left">
   <img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"></left>
 </p>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/debamitr1012/debamitr1012/blob/master/marquee.svg" />
