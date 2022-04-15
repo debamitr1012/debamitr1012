@@ -1,5 +1,9 @@
 <h1 align="left">Hi there, I'm Debayudh <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 
+<p align="left">
+    <img src="https://github.com/debamitr1012/debamitr1012/blob/main/gitartwork.svg" />
+</p>  
+
 ### I'm a student pursuing B.Tech in Computer Science And Engineering.
 
 ## More about me:
