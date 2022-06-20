@@ -10,7 +10,7 @@
 
 ## More about me:
 
-- 🔭 I’m currently working on ML & DL Projects
+- 🔭 I’m currently working on AI,ML,DL,NLP,Computer Vision,etc.
 - 🌱 I’m currently learning everything
 - 👯 I’m looking forward to collaborate on ML & DL Projects
 - 📫 Reach me **debayudh.mitra@yahoo.in**
