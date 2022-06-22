@@ -6,7 +6,7 @@
 </p>  
 
 
-### I'm a student pursuing B.Tech in Computer Science And Engineering.
+I am a Sophomore currently pursuing my BTech degree in Computer Science & Engineering (CSE) from IEM Kolkata. I am a Machine Learning enthusiast. I am acquiring skills in Deep Learning. I am brushing up my skills on Data and Quantitative Analysis, Decision Analytics, Predictive Modeling, Data-Driven Personalization, Machine Learning Algorithms, Organizational and analytical skills, Understanding of technical documentation, Communication and presentation & Problem-solving.
 
 ## More about me:
 
