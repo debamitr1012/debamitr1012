@@ -9,12 +9,12 @@ I am a Junior currently pursuing my BTech degree in Computer Science & Engineeri
 
 ## More about me:
 
-- 🔭 I’m currently working on AI,ML,DL,NLP,Computer Vision,etc.
+- 🔭 I’m currently working on AI,ML,DL,NLP,Computer Vision,etc
 - 🌱 I’m currently learning everything
 - 👯 I’m looking forward to collaborate on ML & DL Projects
 - 📫 Reach me **debayudh.mitra@yahoo.in**
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Computer, Sports, etc
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 💬 Ask me about Computer,Sports,etc
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
