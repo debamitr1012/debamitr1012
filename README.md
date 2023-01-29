@@ -5,7 +5,7 @@
     <img src="https://github.com/debamitr1012/debamitr1012/blob/main/gitartwork.svg" />
 </p>  
 
-I am a Junior currently pursuing my BTech degree in Computer Science & Engineering (CSE) from IEM Kolkata. I am a Machine Learning enthusiast. I am acquiring skills in Deep Learning. I am studying NLP and Computer Vision. I also know Data Analytics and Data Visualization. I am brushing up my skills on Data and Quantitative Analysis, Decision Analytics, Predictive Modelling, Data-Driven Personalization, Machine Learning Algorithms, Organizational and analytical skills, Understanding of technical documentation, Communication and presentation & Problem-solving.
+I am a Junior currently pursuing my B.Tech Computer Science and Engineering from the Institute of Engineering & Management Kolkata.
 
 ## More about me:
 
