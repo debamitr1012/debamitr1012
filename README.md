@@ -1,28 +1,10 @@
 <h1 align="left">Hi there, I'm Debayudh <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 
-
 <p align="left">
     <img src="https://github.com/debamitr1012/debamitr1012/blob/main/gitartwork.svg" />
 </p>  
 
 I am a Junior currently pursuing my B.Tech Computer Science and Engineering from the Institute of Engineering & Management Kolkata.
-
-## More about me:
-
-- 🔭 I’m currently working on AI,ML,DL,NLP,Computer Vision,etc
-- 🌱 I’m currently learning everything
-- 👯 I’m looking forward to collaborate on ML & DL Projects
-- 📫 Reach me **debayudh.mitra@yahoo.in**
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Computer,Sports,etc
-- 😄 Pronouns: He/Him
-
-<h3>Connect with me:</h3>
-<a href="https://www.linkedin.com/in/debayudh-mitra-83b72b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debayudh Mitra" height="30" width="40" /></a>
-<a href="https://www.facebook.com/deba.mitr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deba.mitr" height="30" width="40" /></a>
-<a href="https://www.instagram.com/deba_mitr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deba_mitr" height="30" width="40" /></a>
-<a href="https://twitter.com/10debamitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10debamitr" height="30" width="40" /></a>
-<a href="https://leetcode.com/deba10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="deba10" height="30" width="40" /></a>
 
 <table>
 <tr>
