@@ -36,11 +36,11 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 
 <h3>Tools:</h3>
 
-![image](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/SEABORN-000000?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/PLOTLY-000000?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;&nbsp;
 
 <h3 align="left">My GitHub Statistics :</h3>
 <p align="left">
