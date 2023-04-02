@@ -17,22 +17,21 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 - 💬 Ask me about Computer,Sports,etc
 - 😄 Pronouns: He/Him
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/debayudh-mitra-83b72b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Debayudh Mitra" height="30" width="40" /></a>
 <a href="https://www.facebook.com/deba.mitr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deba.mitr" height="30" width="40" /></a>
 <a href="https://www.instagram.com/deba_mitr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deba_mitr" height="30" width="40" /></a>
 <a href="https://twitter.com/10debamitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10debamitr" height="30" width="40" /></a>
 <a href="https://leetcode.com/deba10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="deba10" height="30" width="40" /></a>
-</p>
+
 
 <h3>Languages:</h3>
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
+![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <h3>Tools:</h3>
 
