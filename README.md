@@ -42,6 +42,9 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="HTML" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="HTML" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="HTML" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg" alt="HTML" width="40px"/>
 </p>
 
 <h3 align="left">My GitHub Statistics :</h3>
