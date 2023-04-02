@@ -28,13 +28,11 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 
 <table>
 <tr>
-<td><h4>Programming Languages</h4></td>
-<td><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/>
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040"/>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=ff7019&labelColor=141819&color=ff7019"/>  
-<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200"/>
-<img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=black&color=blue"/>
-<img src="https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&labelColor=black&color=EAEAEA"/>   
+<td><h4>Languages:</h4></td>
+<td> 
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=DFA200"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=black&color=blue"/>
+<img src="https://img.shields.io/badge/CPP-pink?style=for-the-badge&logo=solidity&labelColor=black&color=EAEAEA"/>   
 </td></tr>
 </table>
 
