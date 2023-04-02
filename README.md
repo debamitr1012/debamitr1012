@@ -47,6 +47,12 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </td></tr>
 <tr>
+    <td><h3>Web Browsers</h3></td>
+    <td>
+        <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+    </td></tr>
+<tr>
     <td><h3>GitHub Stats</h3></td>
     <td>
         <img src="https://img.shields.io/github/followers/{debamitr1012}.svg?style=social&label=Follow&maxAge=2592000" />
