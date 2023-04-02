@@ -38,6 +38,7 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="HTML" width="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="HTML" width="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="HTML" width="40px"/>
 </p>
 
 <h3 align="left">My GitHub Statistics :</h3>
