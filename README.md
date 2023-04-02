@@ -24,22 +24,26 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 <a href="https://twitter.com/10debamitr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="10debamitr" height="30" width="40" /></a>
 <a href="https://leetcode.com/deba10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="deba10" height="30" width="40" /></a>
 
-
-<h3>Languages:</h3>
-
+<table>
+<tr>
+<td><h3>Languages:</h3></td>
+<td>
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
-![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+</td></tr>
+</table>
 
-<h3>Tools:</h3>
-
-![image](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/MATPLOTLIB-000000?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/SEABORN-000000?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/PLOTLY-000000?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image]()
+![image]()
 
 <h3 align="left">My GitHub Statistics :</h3>
 <p align="left">
