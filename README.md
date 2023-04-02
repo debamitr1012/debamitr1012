@@ -26,26 +26,17 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 <a href="https://leetcode.com/deba10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="deba10" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="HTML" width="40px"/>
-</p>
-
-<h3 align="left">Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="HTML" width="40px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="HTML" width="40px"/>
-</p>
+<table>
+<tr>
+<td><h4>Programming Languages</h4></td>
+<td><img src="https://img.shields.io/badge/CPP-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&color=00599C&labelColor=black"/>
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=black&color=404040"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=OpenJDK&logoColor=ff7019&labelColor=141819&color=ff7019"/>  
+<img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&labelColor=black&color=DFA200"/>
+<img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&labelColor=black&color=blue"/>
+<img src="https://img.shields.io/badge/Solidity-white?style=for-the-badge&logo=solidity&labelColor=black&color=EAEAEA"/>   
+</td></tr>
+</table>
 
 <h3 align="left">My GitHub Statistics :</h3>
 <p align="left">
