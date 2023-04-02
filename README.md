@@ -30,9 +30,11 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 <tr>
 <td><h4>Languages:</h4></td>
 <td> 
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&labelColor=black&color=DFA200"/>
-<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&labelColor=black&color=blue"/>
-<img src="https://img.shields.io/badge/CPP-pink?style=for-the-badge&logo=solidity&labelColor=black&color=EAEAEA"/>   
+![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
 </td></tr>
 </table>
 
