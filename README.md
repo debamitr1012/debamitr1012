@@ -26,13 +26,13 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 <a href="https://leetcode.com/deba10/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="deba10" height="30" width="40" /></a>
 </p>
 
-<table>
-<tr>
-<td><h4>Languages:</h4></td>
-<td> 
-![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=cpp&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
-</td></tr>
-</table>
+<h3>Languages:</h3>
+![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/CPP-000000?style=for-the-badge&logo=cpp&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+
 
 <h3 align="left">My GitHub Statistics :</h3>
 <p align="left">
