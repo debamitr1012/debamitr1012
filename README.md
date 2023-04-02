@@ -27,13 +27,7 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 </p>
 
 <h3>Languages:</h3>
-
-![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
-![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
-
+![image](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;![image](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
 
 <h3 align="left">My GitHub Statistics :</h3>
 <p align="left">
