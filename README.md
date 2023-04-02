@@ -46,6 +46,15 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
     <td>
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </td></tr>
+<tr>
+    <td><h3>GitHub Stats</h3></td>
+    <td>
+        <img src="https://img.shields.io/github/followers/{debamitr1012}.svg?style=social&label=Follow&maxAge=2592000" />
+        <img src="https://github-readme-stats.vercel.app/api?username={debamitr1012}&theme=blue-green" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={debamitr1012}&theme=blue-green" />
+        <img src="https://starchart.cc/{debamitr1012}/{repo}.svg" />
+    </td></tr>
+
 </table>
 
 <h3 align="left">My GitHub Statistics :</h3>
