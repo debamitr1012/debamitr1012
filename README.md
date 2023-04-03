@@ -94,16 +94,19 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
         <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" />
         <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
     </td></tr>
-<tr>
-    <td><h3>GitHub Stats</h3></td>
-    <td>
-        <img src="https://img.shields.io/github/followers/{debamitr1012}.svg?style=social&label=Follow&maxAge=2592000" />
-        <img src="https://github-readme-stats.vercel.app/api?username={debamitr1012}&theme=blue-green" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={debamitr1012}&theme=blue-green" />
-        <img src="https://starchart.cc/{debamitr1012}/{repo}.svg" />
-    </td></tr>
-
 </table>
+
+<h3>GitHub Stats</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=blue-green&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
+
+| ![](https://github-readme-stats.vercel.app/api?username=debamitr1012&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debamitr1012&theme=blue-green" width="380" alt="debamitr1012"> |
+| --- | --- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&locale=en&layout=compact&theme=blue-green" width="680" alt="debamitr1012" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debamitr1012&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+ 
+<div align="center">
 
 <h3 align="left">My GitHub Statistics :</h3>
 <p align="left">
