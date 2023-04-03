@@ -98,23 +98,11 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 
 <h3>GitHub Stats</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=blue-green&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=github-compact&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
 
 | ![](https://github-readme-stats.vercel.app/api?username=debamitr1012&github-compact&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debamitr1012&github-compact" width="380" alt="debamitr1012"> |
 | --- | --- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&locale=en&layout=compact&theme=blue-green" width="680" alt="debamitr1012" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debamitr1012&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
-
-<div align="center">
-
-<h3 align="left">My GitHub Statistics :</h3>
-<p align="left">
-
-![Debayudh's github stats](https://github-readme-stats.vercel.app/api?username=debamitr1012&count_private=true&show_icons=True)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&exclude_repo=dotfiles)
-</p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=debamitr1012&theme=light)
+| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&locale=en&layout=compact&theme=github-compact" width="680" alt="debamitr1012" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debamitr1012&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
 
 <h3 align="left">Views:</h3>
 <a href="https://github.com/debamitr1012/github-profile-views-counter">
