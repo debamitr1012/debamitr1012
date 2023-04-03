@@ -7,6 +7,15 @@
 I am a Junior currently pursuing my B.Tech Computer Science and Engineering from the Institute of Engineering & Management Kolkata.
 
 <table>
+    <tr>
+    <td><h3>Contact</h3></td>
+    <td>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+    </td></tr>
 <tr>
 <td><h3>Skills</h3></td>
 <td>
@@ -41,7 +50,6 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
     <td>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
-        <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
     </td></tr>
 <tr>
     <td><h3>OS</h3></td>
