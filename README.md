@@ -98,7 +98,7 @@ I am a Junior currently pursuing my B.Tech Computer Science and Engineering from
 
 <h3>GitHub Stats</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/debamitr1012.svg?style=social&label=Follow)](https://github.com/debamitr1012?tab=followers)<a href="https://github.com/debamitr1012/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=debamitr1012"></a>
+[![GitHub followers](https://img.shields.io/github/followers/debamitr1012.svg?style=social&label=Follow)](https://github.com/debamitr1012?tab=followers) <a href="https://github.com/debamitr1012/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=debamitr1012"></a>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=blue-green&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
 
