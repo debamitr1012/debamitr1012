@@ -7,7 +7,7 @@
 </p>  
 
 <p align="left">
-I am a Junior currently pursuing my B.Tech Computer Science and Engineering from the Institute of Engineering & Management Kolkata.
+I am a Junior currently pursuing my B.Tech Computer Science and Engineering from the Institute of Engineering & Management Kolkata. I'm passionate about building high-quality software that solves real-world problems. I also support open source software and believe in the power of collaboration.
 </p>
 
 <table>
