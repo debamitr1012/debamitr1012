@@ -119,7 +119,7 @@ I am a junior at the Institute of Engineering and Management Kolkata, studying a
    </a>
 </div> 
 <div align=center>
-   <a href="https://github.com/AdityaSeth777">
+   <a href="https://github.com/debamitr1012">
    <img width=49% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/achievements.svg" />
    <img width=49% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/skyline.svg" />
    </a>
