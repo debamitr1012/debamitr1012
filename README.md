@@ -113,6 +113,24 @@ I am a junior at the Institute of Engineering and Management Kolkata, studying a
 | --- | --- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&locale=en&layout=compact&theme=blue-green" width="680" alt="debamitr1012" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debamitr1012&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
 
+<div align=center>
+   <a href="https://github.com/debamitr1012" target="_blank">
+   <img align=center width=100% src="profile-3d-contrib/profile-night-rainbow.svg" />
+   </a>
+</div> 
+<div align=center>
+   <a href="https://github.com/AdityaSeth777">
+   <img width=49% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/achievements.svg" />
+   <img width=49% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/skyline.svg" />
+   </a>
+</div>
+
+<div align=center>
+   <a href="https://github.com/debamitr1012">            
+   <img align="center" alt="Coding Habits" width=100% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/codehabits.svg" />
+   </a>
+</div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice)
 
 <p align="left">
