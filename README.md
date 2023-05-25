@@ -107,7 +107,7 @@ I am a junior at the Institute of Engineering and Management Kolkata, studying a
 
 [![GitHub followers](https://img.shields.io/github/followers/debamitr1012.svg?style=social&label=Follow)](https://github.com/debamitr1012?tab=followers) <a href="https://github.com/debamitr1012/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=debamitr1012"></a>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=apprentice&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=apprentice&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
 
 <!--
 | ![](https://github-readme-stats.vercel.app/api?username=debamitr1012&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debamitr1012&theme=apprentice" width="380" alt="debamitr1012"> |
@@ -134,8 +134,8 @@ I am a junior at the Institute of Engineering and Management Kolkata, studying a
 -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice)
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"></left>
 </p>
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<img align="left" height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
