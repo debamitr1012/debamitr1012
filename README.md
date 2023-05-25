@@ -1,14 +1,16 @@
 <a align="right" href="https://app.daily.dev/debamitr1012"><img src="https://api.daily.dev/devcards/cb08d6b674a14330874e5e518ff67eec.png?r=r41" width="256" align="right" alt="Debayudh Mitra's Dev Card"/></a>
 
-<h1 align="left">Hi there, I'm Debayudh <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
+<h1 align="left">Hi there, I'm Debayudh. I am a junior at the Institute of Engineering and Management Kolkata, studying a Bachelor of Technology in Computer Science and Engineering. I'm passionate about building high-quality software that solves real-world problems. I also support open source software and believe in the power of collaboration. <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h1>
 
 <p align="left">
     <img src="https://github.com/debamitr1012/debamitr1012/blob/main/gitartwork.svg" width="550" />
 </p>  
 
+<!--
 <p align="left">
 I am a junior at the Institute of Engineering and Management Kolkata, studying a Bachelor of Technology in Computer Science and Engineering. I'm passionate about building high-quality software that solves real-world problems. I also support open source software and believe in the power of collaboration.
 </p>
+-->
 
 <table>
     <tr>
