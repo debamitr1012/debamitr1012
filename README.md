@@ -4,7 +4,7 @@
     <img src="https://github.com/debamitr1012/debamitr1012/blob/main/gitartwork.svg" width="550" />
 </p>  
 
-<p align="left">Hi there, I'm Debayudh. I am a junior at the Institute of Engineering and Management Kolkata, studying a Bachelor of Technology in Computer Science and Engineering. I'm passionate about building high-quality software that solves real-world problems. I also support open source software and believe in the power of collaboration. </p>
+<h2 align="left"> Hello there Debayudh here. I am a junior at the Institute of Engineering and Management Kolkata, studying a Bachelor of Technology in Computer Science and Engineering. I'm passionate about building high-quality software that solves real-world problems. I also support open source software and believe in the power of collaboration. </h2>
 
 <!--
 <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> 
