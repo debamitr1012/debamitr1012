@@ -126,17 +126,15 @@ I am a junior at the Institute of Engineering and Management Kolkata, studying a
    <img width=49% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/skyline.svg" />
    </a>
 </div>
-
 <div align=center>
    <a href="https://github.com/debamitr1012">            
    <img align="center" alt="Coding Habits" width=100% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/codehabits.svg" />
    </a>
 </div>
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice)
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"></left>
 </p>
 
