@@ -112,7 +112,7 @@ I am a junior at the Institute of Engineering and Management Kolkata, studying a
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=apprentice&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
 
-
+<!--
 | ![](https://github-readme-stats.vercel.app/api?username=debamitr1012&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true) | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debamitr1012&theme=apprentice" width="380" alt="debamitr1012"> |
 | --- | --- |
 | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&locale=en&layout=compact&theme=apprentice" width="680" alt="debamitr1012" /> | [![Prince Singh GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=debamitr1012&theme=github-compact)](https://github.com/PrinceSinghHub/github-readme-activity-graph) | 
@@ -133,7 +133,7 @@ I am a junior at the Institute of Engineering and Management Kolkata, studying a
    <img align="center" alt="Coding Habits" width=100% src="https://raw.githubusercontent.com/debamitr1012/debamitr1012/main/codehabits.svg" />
    </a>
 </div>
-
+-->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice)
 
 <p align="center">
