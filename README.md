@@ -107,10 +107,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=apprentice&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=debamitr1012&show_icons=true&locale=en&theme=apprentice" alt="debamitr1012" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debamitr1012&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&langs_count=10ocale=en&layout=compact&theme=transparent" alt="debamitr1012" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=debamitr1012&show_icons=true&locale=en&theme=apprentice" alt="debamitr1012" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debamitr1012&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&langs_count=10ocale=en&layout=compact&theme=apprentice" alt="debamitr1012" /> |
 | --- | --- | --- |
 
-| [![][![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&theme=apprentice)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| [![](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice)
 
