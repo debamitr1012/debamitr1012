@@ -1,6 +1,6 @@
 <a align="right" href="https://app.daily.dev/debamitr1012"><img src="https://api.daily.dev/devcards/cb08d6b674a14330874e5e518ff67eec.png?r=r41" width="256" align="right" alt="Debayudh Mitra's Dev Card"/></a>
 
-<h2 align="left"> Hello there Debayudh here. <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h2>
+<h2 align="left"> Hello, Folks! Debayudh here. <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> </h2>
 
 <a align="left">
     <img src="https://github.com/debamitr1012/debamitr1012/blob/main/gitartwork.svg" width="550" />
@@ -110,9 +110,10 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=debamitr1012&show_icons=true&locale=en&theme=apprentice" alt="debamitr1012" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debamitr1012&border_radius=7&card_width=485&background=EBEBEB00&dates=078FE3&currStreakNum=CDC026&ring=EB9223&sideNums=06ABD1&sideLabels=EB5454&stroke=2C3043&border=282A31)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&langs_count=10ocale=en&layout=compact&theme=apprentice" alt="debamitr1012" /> |
 | --- | --- | --- |
 
-| [![](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| [![][![Debayudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 | --- |
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice) |
-<img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"> 
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+| <img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"> 
+| --- |
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> |
