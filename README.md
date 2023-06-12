@@ -111,8 +111,8 @@
 | --- | --- | --- |
 
 | [![](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&bg_color=00000000&color=008bf5&line=000000&point=403d3d&area=true&hide_border=truecard_width=85)](https://github.com/ashutosh00710/github-readme-activity-graph)
-| --- |  --- |
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice) 
-<img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"> |
+| --- |
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice) |
+<img src="https://github.com/debamitr1012/debamitr1012/raw/output/github-contribution-grid-snake.svg" alt="snake"> 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
