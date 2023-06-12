@@ -110,7 +110,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=debamitr1012&show_icons=true&locale=en&theme=apprentice" alt="debamitr1012" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debamitr1012&theme=apprentice)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&langs_count=10ocale=en&layout=compact&theme=apprentice" alt="debamitr1012" /> |
 | --- | --- | --- |
 
-| [![Debayudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| [![Debayudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&theme=apprentice)](https://github.com/ashutosh00710/github-readme-activity-graph)
 | --- |
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debamitr1012&theme=apprentice) |
 
