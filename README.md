@@ -102,7 +102,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debamitr1012&theme=apprentice&no-frame=true&column=-1" alt="debamitr1012" /></a> </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=debamitr1012&show_icons=true&locale=en&theme=apprentice" alt="debamitr1012" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debamitr1012&theme=apprentice)](https://git.io/streak-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debamitr1012&show_icons=true&langs_count=10ocale=en&layout=compact&theme=apprentice" alt="debamitr1012" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=debamitr1012&show_icons=true&locale=en&theme=apprentice" alt="debamitr1012" /> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=debamitr1012&theme=apprentice)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debamitr1012&theme=apprentice) |
 | --- | --- | --- |
 
 | [![Debayudh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debamitr1012&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
